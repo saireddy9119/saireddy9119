@@ -2,7 +2,12 @@
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" width="400" alt="Coding" src="https://media1.tenor.com/m/IieZUsqoYCwAAAAd/developer.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saireddy9119&label=Profile%20views&color=0e75b6&style=flat" alt="saireddy9119" /> </p>
+
+- 🌱 I’m currently learning **React,Spring Boot**
+
+- 💬 Ask me about **Nodejs,Javascript,MongoDB**
 
 - 📫 How to reach me **sainarasimhareddy9009@gmail.com**
 
